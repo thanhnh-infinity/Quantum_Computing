@@ -788,23 +788,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/thanhnguyen/.nuget/packages/": {},
+    "/Users/thanhnh2911/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Workspace_ThanhNH/All_Workspace/Quantum_Programming_Workspace/My_Quantum_Tutorial/Bell/Bell.csproj",
+      "projectUniqueName": "/Volumes/Develop_Data_MacOS/All_Workspace/Quantum_Computing_Workspace/My_Quantum_Tutorial/Bell/Bell.csproj",
       "projectName": "Bell",
-      "projectPath": "/Volumes/Workspace_ThanhNH/All_Workspace/Quantum_Programming_Workspace/My_Quantum_Tutorial/Bell/Bell.csproj",
-      "packagesPath": "/Users/thanhnguyen/.nuget/packages/",
-      "outputPath": "/Volumes/Workspace_ThanhNH/All_Workspace/Quantum_Programming_Workspace/My_Quantum_Tutorial/Bell/obj/",
+      "projectPath": "/Volumes/Develop_Data_MacOS/All_Workspace/Quantum_Computing_Workspace/My_Quantum_Tutorial/Bell/Bell.csproj",
+      "packagesPath": "/Users/thanhnh2911/.nuget/packages/",
+      "outputPath": "/Volumes/Develop_Data_MacOS/All_Workspace/Quantum_Computing_Workspace/My_Quantum_Tutorial/Bell/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/thanhnguyen/.nuget/NuGet/NuGet.Config"
+        "/Users/thanhnh2911/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
